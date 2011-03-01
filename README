@@ -1,0 +1,9 @@
+Contains my takes on Hyperpublic's challenge problems 1 and 2
+(http://hyperpublic.com/challenge). Intended to serve as an aid to
+anyone who may have had difficulty coming up a solution, thus the code
+was written to be effortless to understand.
+
+Note that the chosen strategies are quite naive. Problem 2, in particular,
+uses straightforward recursion to derive the minimum needed tasks for 0 to 196
+points; improving upon this using dynamic programming is left as an exercise
+to the reader.
